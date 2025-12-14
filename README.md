@@ -38,3 +38,47 @@ para textos interpretativos.
 ├─ gostar-so-dela-kalos.html
 └─ tarde-livre-alola.html
 
+---
+
+## 🚀 Como rodar localmente
+
+1. Clone o repositório:
+
+git clone https://github.com/vicbaltazar/pokeselvagens-blog.git
+cd pokeselvagens-blog
+
+text
+
+2. Abra o arquivo `index.html` no navegador  
+   (clicando duas vezes ou usando **Open with Live Server** no VS Code).
+
+---
+
+## 🌐 Deploy
+
+O projeto está publicado via **GitHub Pages**:
+
+https://vicbaltazar.github.io/pokeselvagens-blog/
+
+text
+
+Para atualizar o site:
+
+1. Edite/adicione arquivos (por exemplo, novos posts em `/posts`).
+2. Faça commit e push na branch `main`.
+3. Aguarde alguns minutos para o GitHub Pages atualizar a versão online. [web:36][web:204]
+
+---
+
+## ⚠️ Aviso importante
+
+- Projeto de fã, sem vínculo oficial com **Selvagens à Procura de Lei** nem com **The Pokémon Company**.
+- Não hospeda músicas, áudios ou letras completas.
+- Todos os textos são interpretações pessoais, feitos apenas para estudo, prática de desenvolvimento web e diversão.
+
+---
+
+## 📬 Contato
+
+- GitHub: [@vicbaltazar](https://github.com/vicbaltazar)
+- LinkedIn: (https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)
