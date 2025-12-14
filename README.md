@@ -58,7 +58,7 @@ O projeto está publicado via **GitHub Pages**:
 
 https://vicbaltazar.github.io/pokeselvagens-blog/
 
-text
+---
 
 Para atualizar o site:
 
