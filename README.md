@@ -47,8 +47,6 @@ para textos interpretativos.
 git clone https://github.com/vicbaltazar/pokeselvagens-blog.git
 cd pokeselvagens-blog
 
-text
-
 2. Abra o arquivo `index.html` no navegador  
    (clicando duas vezes ou usando **Open with Live Server** no VS Code).
 
