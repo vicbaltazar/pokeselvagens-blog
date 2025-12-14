@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokéSelvagens</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="topbar">
+        <div class="logo-area">
+            <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/items/love-ball.png" alt="Pokébola" class="logo-icon">
+            <h1>PokéSelvagens</h1>
+        </div>
+        <nav class="nav">
+            <a href="index.html">Início</a>
+            <a href="#sobre">Sobre</a>
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section class="hero">
+            <h2>Selvagens à Procura de Lei no mundo Pokémon</h2>
+            <p>Um fã-site que mistura rock cearense com vibes de treinador Pokémon</p>
+        </section>
+
+        <section class="blog-filters">
+            <button data-region="all" class="filter-btn active">Todas</button>
+            <button data-region="kanto" class="filter-btn">Kanto</button>
+            <button data-region="hoenn" class="filter-btn">Hoenn</button>
+        </section>
+
+        <section class="posts">
+            <article class="post-card" data-region="Kanto">
+                <h3>Melhor Assim como trilha de jornada em Kanto</h3>
+                <p class="meta">Interpretação de fã • Selvagens + Pokémon.</p>
+                <p class="excerpt">
+                    Como a sensação de fim e recomeço da música combina com a primeira jornada pela região de Kanto
+                </p>
+                <a href="posts/melhor-assim-kanto.html" class="btn">Ler post</a>
+            </article>
+
+            <article class="post-card" data-region="Hoenn">
+                <h3>Playlist: Mar Fechado nas rotas de Hoenn</h3>
+                <p class="meta">Interpretação de fã • Selvagens + Pokémon.</p>
+                <p class="excerpt">
+                    Uma música melancólica para rotas chuvosas, mares agitados e travessias difíceis em Hoenn.
+                </p>
+                <a href="posts/mar-fechado-hoenn.html" class="btn">Ler post</a>
+            </article>
+        </section>
+
+        <section id="sobre" class="info-section">
+            <h2>Sobre o blog</h2>
+            <p>
+                Blog de fã, sem vínculo oficial com a banda nem com Pokémon. Aqui entram análises, sentimentos e comparações entre músicas da Selvagens e o clima das regiões da franquia.
+            </p>
+        </section>
+
+        <section id="contato" class="info-section">
+            <h2>Contato</h2>
+            <p>
+                Você pode ver meus outros projetos no GitHub e trocar ideia no LinkedIn.
+            </p>
+            <ul>
+                <li><a href="https://github.com/vicbaltazar" target="_blank">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/" target="_blank">LinkedIn</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>Fã-site sem fins lucrativos. Respeita direitos autorais: nada de letras, áudios ou downloads.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
