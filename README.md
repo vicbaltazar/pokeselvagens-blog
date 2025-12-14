@@ -81,4 +81,4 @@ Para atualizar o site:
 ## 📬 Contato
 
 - GitHub: [@vicbaltazar](https://github.com/vicbaltazar)
-- LinkedIn: (https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)
+- LinkedIn: [linkedin.com/in/vitória-baltazar-3944a72ab](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/).
